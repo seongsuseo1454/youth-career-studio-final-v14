@@ -1,0 +1,9 @@
+name = "youth-career-studio-final-v4"
+type = "javascript" # 또는 "webpack" 등 사용 환경에 맞게 설정
+
+account_id = "네 Cloudflare 계정 ID"
+workers_dev = true
+route = ""
+zone_id = ""
+
+compatibility_date = "2025-11-16" # 오늘 날짜에 맞게
